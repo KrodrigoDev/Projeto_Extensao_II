@@ -15,6 +15,7 @@
 - [ ] Criar Mockups em Alta Fidelidade para as Interfaces do Sistema
 - [ ] Implementar a Criação das Janelas de Interação
 - [ ] Estabelecer a Conexão com o Banco de Dados para Armazenamento e Recuperação de Dados
+- [ ] Documentar Possíveis Exceções e Erros do Sistema 
 
 ## Colaboradores
 - [Caio Ricardo](https://github.com/caioricardu)
