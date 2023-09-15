@@ -18,6 +18,7 @@
 - [ ] Documentar Possíveis Exceções e Erros do Sistema 
 
 ## Colaboradores
+- [Kauã Rodrigo](https://github.com/KrodrigoDev)
 - [Caio Ricardo](https://github.com/caioricardu)
 - [Oberon Inácio](https://github.com/oberon4589)
 - [Ebert Júlio](https://github.com/EuEbertEu)
