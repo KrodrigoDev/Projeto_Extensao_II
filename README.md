@@ -22,8 +22,8 @@ Clique [aqui](https://www.figma.com/file/VZmLyLF23W82sxLeKWsy9s/E.E-Deputado-Jo%
 ## Diagrama com todas as classes e seus relacionamentos (Sujeito a Alterações)
 
 <div align="center">
-
-![Diagrama de Classes Biblioteca drawio](https://github.com/KrodrigoDev/Projeto_Extensao_II/assets/126525471/c5b7c4e1-0d21-44b7-956c-bb8e4ac6254a)
+  
+![Diagrama de Classes Biblioteca drawio (1)](https://github.com/KrodrigoDev/Projeto_Extensao_II/assets/126525471/3a415247-570d-46d4-bb91-a171d5346d98)
 
 </div>
 
